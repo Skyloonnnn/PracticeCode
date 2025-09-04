@@ -13,12 +13,12 @@ namespace Loon_InheritanceConstructor
             //Instantian object for Regular Student class
             RegularStudent regularStudent = new RegularStudent("Aian cuyos", "BSIT", "IT306");
             //Call the method to display Regular student info
-            regularStudent.RegularStudentInformaton();
+            regularStudent.SectionEnrolled();
 
             //Instantian object for Irreegular Student class
             IrregularStudent irregularStudent = new IrregularStudent("Sky Loon", "BSIT", 18);
             //Call the method to display Irregular Student info
-            irregularStudent.IrregularStudentInfo();
+            irregularStudent.EnrolledSemUnits();
 
             Console.ReadKey();
         }
