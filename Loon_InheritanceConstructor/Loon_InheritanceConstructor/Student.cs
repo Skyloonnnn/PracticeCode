@@ -43,7 +43,7 @@ namespace Loon_InheritanceConstructor
         //Method to display Regular Student info
         public void SectionEnrolled()
         {
-            StudentInformaton();
+            BasicInfo();
             Console.WriteLine($"Section: {section}");
         }
     }
@@ -62,7 +62,7 @@ namespace Loon_InheritanceConstructor
         //Method to display Irregular Student info
         public void EnrolledSemUnits()
         {
-            StudentInformaton();
+            BasicInfo();
             Console.WriteLine($"Enrolled Units: {units}");
         }
     }
