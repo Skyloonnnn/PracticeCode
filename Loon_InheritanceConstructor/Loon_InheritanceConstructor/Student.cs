@@ -20,7 +20,7 @@ namespace Loon_InheritanceConstructor
         }
 
         //Method to display student info
-        public void StudentInformaton()
+        public void BasicInfo()
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("\n\tStudent Information");
@@ -41,7 +41,7 @@ namespace Loon_InheritanceConstructor
         }
 
         //Method to display Regular Student info
-        public void RegularStudentInformaton()
+        public void SectionEnrolled()
         {
             StudentInformaton();
             Console.WriteLine($"Section: {section}");
@@ -60,7 +60,7 @@ namespace Loon_InheritanceConstructor
         }
 
         //Method to display Irregular Student info
-        public void IrregularStudentInfo()
+        public void EnrolledSemUnits()
         {
             StudentInformaton();
             Console.WriteLine($"Enrolled Units: {units}");
