@@ -1,8 +1,0 @@
-C:\Users\ACT-STUDENT\Desktop\InheritanceUser\Loon_InheritanceUserInput\Loon_InheritanceUserInput\bin\Debug\Loon_InheritanceUserInput.exe.config
-C:\Users\ACT-STUDENT\Desktop\InheritanceUser\Loon_InheritanceUserInput\Loon_InheritanceUserInput\bin\Debug\Loon_InheritanceUserInput.exe
-C:\Users\ACT-STUDENT\Desktop\InheritanceUser\Loon_InheritanceUserInput\Loon_InheritanceUserInput\bin\Debug\Loon_InheritanceUserInput.pdb
-C:\Users\ACT-STUDENT\Desktop\InheritanceUser\Loon_InheritanceUserInput\Loon_InheritanceUserInput\obj\Debug\Loon_InheritanceUserInput.csproj.AssemblyReference.cache
-C:\Users\ACT-STUDENT\Desktop\InheritanceUser\Loon_InheritanceUserInput\Loon_InheritanceUserInput\obj\Debug\Loon_InheritanceUserInput.csproj.CoreCompileInputs.cache
-C:\Users\ACT-STUDENT\Desktop\InheritanceUser\Loon_InheritanceUserInput\Loon_InheritanceUserInput\obj\Debug\Loon_InheritanceUserInput.exe
-C:\Users\ACT-STUDENT\Desktop\InheritanceUser\Loon_InheritanceUserInput\Loon_InheritanceUserInput\obj\Debug\Loon_InheritanceUserInput.pdb
-C:\Users\ACT-STUDENT\Desktop\InheritanceUser\Loon_InheritanceUserInput\Loon_InheritanceUserInput\obj\Debug\Loon_InheritanceUserInput.exe.config
