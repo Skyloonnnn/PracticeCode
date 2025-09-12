@@ -1,0 +1,14 @@
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\bin\Debug\Foundation_Practice.exe.config
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\bin\Debug\Foundation_Practice.exe
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\bin\Debug\Foundation_Practice.pdb
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\obj\Debug\Foundation_Practice.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\obj\Debug\Foundation_Practice.Calculator.resources
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\obj\Debug\Foundation_Practice.Main.resources
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\obj\Debug\Foundation_Practice.LoadScreen.resources
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\obj\Debug\Foundation_Practice.Properties.Resources.resources
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\obj\Debug\Foundation_Practice.csproj.GenerateResource.cache
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\obj\Debug\Foundation_Practice.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\obj\Debug\Foundation_Practice.exe
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\obj\Debug\Foundation_Practice.pdb
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\obj\Debug\Foundation_Practice.exe.config
+C:\Users\ACT-STUDENT\Desktop\FoundationPractice\Foundation_Practice\Foundation_Practice\obj\Debug\Foundation_Practice.Loop.resources
